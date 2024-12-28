@@ -1,4 +1,5 @@
 package com.ripan.dsa.string;
+
 // leetcode 1021
 
 public class RemoveOutermostParenthesis {
